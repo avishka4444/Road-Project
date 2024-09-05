@@ -182,7 +182,7 @@ const ThreeWheelerForm: React.FC = () => {
       </FormWrapper>
 
       <OutputWrapper>
-        <h3>Number of Three-wheelers: {numberOfThreewheelers !== null ? numberOfThreewheelers : 0}</h3>
+        <h3>Optimum Number of Three-wheelers: {numberOfThreewheelers !== null ? numberOfThreewheelers : 0}</h3>
       </OutputWrapper>
     </>
   );
